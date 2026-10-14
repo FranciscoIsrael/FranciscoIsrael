@@ -92,7 +92,6 @@ Busco uma oportunidade como Desenvolvedor Full Stack para aplicar e ampliar meus
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
   
 
 <br/>  
